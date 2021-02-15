@@ -1,6 +1,6 @@
 {
-  "name": "week-4",
-  "version": "0.0.0",
+  "name": "assignment",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -16,5 +16,18 @@
     "jquery": "^3.5.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "comp229 assignment1",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddarth6768/Express-Portfolio.git"
+  },
+  "author": "Siddarth Sundarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddarth6768/Express-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Siddarth6768/Express-Portfolio#readme"
 }
